@@ -1,6 +1,6 @@
-let systemUsers: string[] = [""]
+let systemUsers2: string[] = [""]
 
-systemUsers.forEach(users => {
+systemUsers2.forEach(users => {
     
     if (users == "") {
         console.log("não temos usuários cadastrados")
